@@ -47,3 +47,8 @@ Legislação: https://sapl.saojoaodaboavista.sp.leg.br/ta/2283/text
 
 ## Conferências realizadas
 Sintaxe JavaScript, existência de destinos de links locais, imagens e âncoras; estrutura de títulos e metadados. A revisão visual automatizada no navegador não foi possível nesta sessão: a abertura de arquivos locais foi bloqueada pela política do navegador. Layout adaptável implementado, mas não declarar testes visuais de celular/desktop como concluídos.
+
+
+## Edição de outubro de 2026
+
+A identidade visual usa `style.css` e `editorial.css`. Execute `python gerar_site.py` para regenerar as páginas após editar textos e notícias. Os relatos completos estão em `article_sections`, no gerador; os resumos e a configuração Pix continuam em `conteudo.json`. Ao adicionar notícia, acrescente também suas seções a `article_sections`. A ilustração da abertura e as capas gráficas são elementos decorativos, não fotografias de eventos. Preserve as fontes dos relatos.
