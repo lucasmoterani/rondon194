@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "slug": "aprendizado-e-aventura",
+      "title": "Um fim de semana para aprender e compartilhar",
+      "category": "Atividades",
+      "date": "Setembro de 2026",
+      "image": "assets/equipe.jpg",
+      "text": "Ponta de lança e ponta de flecha: um fim de semana de aprendizado e troca de experiências. O registro publicado pelo grupo celebra a convivência e a construção de novos conhecimentos no Movimento Escoteiro.",
+      "url": "https://www.instagram.com/gemarechalrondon194/p/DdgezoOG3y0/"
+    },
+    {
+      "slug": "formacao-de-chefes",
+      "title": "Quem ensina também continua aprendendo",
+      "category": "Formação",
+      "date": "Agosto de 2026",
+      "image": "assets/equipe.jpg",
+      "text": "O grupo registrou momentos de formação dos chefes e de Indaba, encontros dedicados ao aprendizado e à preparação das atividades. A formação dos adultos faz parte do cuidado com a experiência educativa dos jovens.",
+      "url": "https://www.instagram.com/gemarechalrondon194/p/DcEghebFO4y/"
+    },
+    {
+      "slug": "57-anos",
+      "title": "57 anos de histórias que seguem em frente",
+      "category": "Nosso grupo",
+      "date": "Abril de 2026",
+      "image": "assets/logo.png",
+      "text": "Fundado em 19 de abril de 1969, o Grupo Escoteiro Marechal Rondon chega a 57 anos de história em São João da Boa Vista. Uma trajetória construída por jovens, famílias e adultos voluntários, com amizade, vida ao ar livre e serviço à comunidade.",
+      "url": "https://www.instagram.com/gemarechalrondon194/"
+    },
+    {
+      "slug": "oleo-usado",
+      "title": "Óleo usado tem um destino melhor",
+      "category": "Comunidade",
+      "date": "2026",
+      "image": "assets/equipe.jpg",
+      "text": "O grupo divulgou a continuidade da coleta de óleo usado em 2026. As entregas podem ser combinadas com a equipe na sede. Para grandes quantidades, consulte o grupo sobre a possibilidade de retirada. Antes de levar sua doação, confirme como acondicionar o material e o melhor horário.",
+      "url": "https://www.instagram.com/gemarechalrondon194/p/DTsLBC1Dr7S/"
+    },
+    {
+      "slug": "nova-diretoria",
+      "title": "Uma equipe para os próximos passos",
+      "category": "Nosso grupo",
+      "date": "17 de janeiro de 2026",
+      "image": "assets/logo.png",
+      "text": "A Assembleia Ordinária reuniu relatos de 2025, prestação de contas e eleição da Diretoria e da Comissão Fiscal. Foram eleitos Ulisses Valin, diretor-presidente; Pedro Hernandez, diretor administrativo; e Mariana Zorgetto, diretora financeira. A Comissão Fiscal é composta por Fabio Mucin, Marta Bonfante e Luis Fernando Silvestre. O mandato informado vai até janeiro de 2028.",
+      "url": "https://www.instagram.com/gemarechalrondon194/p/DTn-ojRgWHZ/"
+    },
+    {
+      "slug": "grupo-padrao-ouro",
+      "title": "Uma conquista de todo o grupo",
+      "category": "Conquistas",
+      "date": "2026",
+      "image": "assets/logo.png",
+      "text": "O Marechal Rondon anunciou em seu Instagram a conquista de Grupo Padrão Ouro, celebrando o empenho dos chefes e dos jovens. Um reconhecimento compartilhado por quem ajuda a construir o grupo a cada atividade.",
+      "url": "https://www.instagram.com/gemarechalrondon194/p/DUB0t4lkmXe/"
+    }
+  ],
+  "pix": {
+    "payload": "",
+    "favorecido": "",
+    "qr_image": ""
+  }
+}
